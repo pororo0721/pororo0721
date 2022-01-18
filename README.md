@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinhye</h1>
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79802132/149947725-0f82f5b8-5e51-42b0-b89b-12f4a8859392.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/79802132/149947251-3714094c-736c-47bf-a07d-b00035cfeb81.gif)
 
 <h3 align="center">A Passionate Web Developer from South Korea</h3>
 
