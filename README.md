@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sinhye</h1>
 
-![anime-typing](https://user-images.githubusercontent.com/79802132/149946236-05a53529-7e5a-4a70-9610-747be5224b14.gif)
+                        ![anime-typing](https://user-images.githubusercontent.com/79802132/149946236-05a53529-7e5a-4a70-9610-747be5224b14.gif)
 
-<h3 align="center">A Passionate Developer from South Korea</h3>
+<h3 align="center">A Passionate Web Developer from South Korea</h3>
 
 - 🔭 I’m currently working on [Code First Girls Nano Degree](https://github.com/BethanL19/CFG-Project)
 
