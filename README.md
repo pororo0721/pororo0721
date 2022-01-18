@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sinhye</h1>
+![anime-typing](https://user-images.githubusercontent.com/79802132/149945803-59de0234-eae0-487b-873d-15c65a712a34.gif)
+
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
 - 🔭 I’m currently working on [Code First Girls Nano Degree](https://github.com/BethanL19/CFG-Project)
@@ -9,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sinhye-yun-6b20b8162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sinhye-yun-6b20b8162" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sinhye-yun-6b20b8162b20b8162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sinhye-yun-6b20b8162b20b8162" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pororo0721&show_icons=true&locale=en&layout=compact" alt="pororo0721" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pororo0721&show_icons=true&locale=en" alt="pororo0721" /></p>
+
