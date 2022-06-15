@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Code First Girls Nano Degree](https://github.com/BethanL19/CFG-Project)
 
-- 🌱 I’m currently learning **Algorithms, React 18, NextJS, Tailwind CSS, Typscript**
+- 🌱 I’m currently learning **Algorithms, React 18, NextJS, Tailwind CSS, Typescript**
 
 - 📫 How to reach me **sinhyeyun0@gmail.com**
 
