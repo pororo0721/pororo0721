@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sinhye</h1>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79802132/149947725-0f82f5b8-5e51-42b0-b89b-12f4a8859392.gif)
+
 
 
 <h3 align="center">A Passionate Software Engineer from South Korea</h3>
