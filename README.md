@@ -5,7 +5,7 @@
 
 <h3 align="center">A Passionate Software Engineer from South Korea</h3>
 
-- 🔭 Graduated with software nano degree distinction in code first girls (February 2022) [Code First Girls Nano Degree Grop Project](https://github.com/BethanL19/CFG-Project)
+- 🔭 Graduated with software nano degree distinction in code first girls (February 2022) [Code First Girls Nano Degree Group Project](https://github.com/BethanL19/CFG-Project)
 
 - 🌱 I’m currently learning **Algorithms, React 18, NextJS, Tailwind CSS, Typescript**
 
